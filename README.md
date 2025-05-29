@@ -45,4 +45,16 @@ Indicacion 8: A partir de la siguiente base de datos, crea una tabla dinámica q
 | ----------- | ----------- |
 |![image](https://github.com/user-attachments/assets/60329b3f-d4f4-4d14-8480-b0ede7640e80)|![image](https://github.com/user-attachments/assets/e5b071a8-c8c3-412a-bcb9-de689038c879)|
 
+![espacio](https://github.com/user-attachments/assets/1526dbec-c246-480b-b435-36738f59f0bf)
+
+## Tablas dinámicas
+
+Resumen de la interfáz en Power Query
+
+![image](https://github.com/user-attachments/assets/d497120e-8ed2-42b1-8fb1-cb55de52571b)
+
+![image](https://github.com/user-attachments/assets/4a051416-60d7-4825-8f5b-306480350619)
+
+![image](https://github.com/user-attachments/assets/48ee7ef4-edde-4817-8c2e-bdd53b5d84bb)
+
 

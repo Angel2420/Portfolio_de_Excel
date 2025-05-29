@@ -19,12 +19,20 @@ Indicacion 2: diseña una tabla dinámica que muestre la suma de la comisión co
 
 Indicacion 3: diseña una tabla dinámica que muestre la suma de la cantidad vendida por la venta de cada producto (filas) a España, Bolivia y Argentina (Filtros).
 
-
 | I1 Total cobrado en cada una por categoría | I2 Comisión por venta a cada país y por cada categoría | I3 Cantidad vendida por producto a España, Bolivia y Argentina |
 | ----------- | ----------- | ----------- |
 |![image](https://github.com/user-attachments/assets/33604cb1-3564-498a-a578-1d8474155c29)|![image](https://github.com/user-attachments/assets/3a860406-72a2-41b5-8226-f31931ea20af)|![image](https://github.com/user-attachments/assets/b15aeb76-cf6b-41b5-b7ae-c64a04432e35)|
 
 Indicacion 4: diseña una tabla dinámica que muestre la suma de la comisión cobrada por cada vendedor y país, distribuirla como crea conveniente y aplicarle estilos.
-| I4 comisión por vendedor y país |
+
+Indicacion 5: Usando la siguiente base de datos, diseña una tabla dinámica que muestre la cantidad vendida, total cobrado y total de comisión en cada mes.
+
+| I4 comisión por vendedor y país | I5 Mostrar Cantidad, total cobrado y comision por meses  |
+| ----------- | ----------- |
+|![image](https://github.com/user-attachments/assets/aaccd6a0-8253-4a84-9930-11512762c50a)|![image](https://github.com/user-attachments/assets/e4eb7494-4a9d-40c9-9c78-61ae442a929f)
+
+Indicacion 6: a partir de la siguiente base de datos, diseña una tabla dinámica que muestre la cantidad de ventas registradas según el total cobrado. Los totales deben estar agrupados en rangos de S/ 5,000
+
+| I6 cantidad de ventas agrupados en rangos de S/ 5,000 |
 | ----------- |
-|![image](https://github.com/user-attachments/assets/aaccd6a0-8253-4a84-9930-11512762c50a)|
+|![image](https://github.com/user-attachments/assets/742241c9-b861-44b0-aad5-9bb61e29b022)|

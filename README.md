@@ -5,7 +5,7 @@
 ![Portada Excel](https://github.com/user-attachments/assets/74aaddf5-47d6-43e4-b8ae-3553eed64ae6)
 ![espacio](https://github.com/user-attachments/assets/fae9b0c0-4fbd-48b2-85c8-9489249069de)
 
-## Tablas dinámicas, Ejemplo 1
+## Tablas dinámicas
 
 | Sección de la Base de Datos |
 | ----------- |
@@ -33,6 +33,16 @@ Indicacion 5: Usando la siguiente base de datos, diseña una tabla dinámica que
 
 Indicacion 6: a partir de la siguiente base de datos, diseña una tabla dinámica que muestre la cantidad de ventas registradas según el total cobrado. Los totales deben estar agrupados en rangos de S/ 5,000
 
-| I6 cantidad de ventas agrupados en rangos de S/ 5,000 |
-| ----------- |
-|![image](https://github.com/user-attachments/assets/742241c9-b861-44b0-aad5-9bb61e29b022)|
+Indicacion 7: a partir de la base de datos, diseña una tabla dinámica que muestre el total cobrado y porcentaje que representa sobre el total general por cada categoría y producto. La tabla solo debe mostrar las categorías Juguetes, Ropa y Adornos.
+
+| I6 cantidad de ventas agrupados en rangos de S/ 5,000 | I7 total cobrado y porcentaje del total general por cada categoría y producto |
+| ----------- | ----------- |
+|![image](https://github.com/user-attachments/assets/742241c9-b861-44b0-aad5-9bb61e29b022)|![image](https://github.com/user-attachments/assets/16ddc727-c54d-4b25-8b6a-2c196c045ec7)
+
+Indicacion 8: A partir de la siguiente base de datos, crea una tabla dinámica que muestre el monto cobrado por IGV (18% del ingreso total) y el total cobrado (Ingreso total + IGV)
+
+| Sección de la nueva Base de Datos | Campos calculados: Igv y Total cobrado |
+| ----------- | ----------- |
+|![image](https://github.com/user-attachments/assets/60329b3f-d4f4-4d14-8480-b0ede7640e80)|![image](https://github.com/user-attachments/assets/e5b071a8-c8c3-412a-bcb9-de689038c879)|
+
+

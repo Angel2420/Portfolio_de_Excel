@@ -53,9 +53,15 @@ Resumen de la interfáz en Power Query
 
 ![image](https://github.com/user-attachments/assets/d497120e-8ed2-42b1-8fb1-cb55de52571b)
 
+![espacio](https://github.com/user-attachments/assets/1526dbec-c246-480b-b435-36738f59f0bf)
+
 ![image](https://github.com/user-attachments/assets/4a051416-60d7-4825-8f5b-306480350619)
 
+![espacio](https://github.com/user-attachments/assets/1526dbec-c246-480b-b435-36738f59f0bf)
+
 ![image](https://github.com/user-attachments/assets/48ee7ef4-edde-4817-8c2e-bdd53b5d84bb)
+
+![espacio](https://github.com/user-attachments/assets/1526dbec-c246-480b-b435-36738f59f0bf)
 
 ## Macros
 
